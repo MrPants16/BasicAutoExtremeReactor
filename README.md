@@ -1,0 +1,1 @@
+ - reactor.lua is a very basic auto Extreme Reactor Minecraft mod reactor control with auto turning on and off based on the defined range and changing control rod levels based on energy storage percentage.
